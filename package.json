@@ -1,0 +1,27 @@
+{
+  "name": "projet-gestion-event",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaval48/projet-gestion-event.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vaval48/projet-gestion-event/issues"
+  },
+  "homepage": "https://github.com/Vaval48/projet-gestion-event#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
