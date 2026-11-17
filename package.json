@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/Vaval48/projet-gestion-event#readme",
   "dependencies": {
-    "express": "^5.3.0"
+    "express": "^5.3.0",
+    "mongoose": "^9.12.2"
   },
   "devDependencies": {
     "typescript": "^7.0.2"
